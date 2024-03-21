@@ -1,8 +1,8 @@
 #!/bin/bash
-
+source $(dirname "$0")/config.sh
 read -p "How many commits would you like? " j 
 
-cd ~/repos/scrap
+cd REPO_PATH
 
 for ((i=1; i<=j; i++))
 do
