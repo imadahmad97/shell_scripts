@@ -50,6 +50,7 @@
 
 A project that allows you to quickly make however many commits you would like to git/GitHub. Simply input the path to a specific repo you want to commit to in the config file and voila!
 
+![Alt Text](https://i.imgur.com/2HfAbYp.gif)
 
 
 <!-- GETTING STARTED -->
