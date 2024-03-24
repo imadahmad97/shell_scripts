@@ -57,6 +57,8 @@ A project that allows you to quickly make however many commits you would like to
 
 Simply clone the repository into your local machine, input your file paths into the config.sh file, and run the desired shell script!
 
+**NOTE:** If you have not yet made the shell scripts executable, please input the full path to the script in your terminal to run it.
+
 
 
 
