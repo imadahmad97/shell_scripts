@@ -10,7 +10,6 @@
   <p align="center">
     A collection of shell scripts to make everyday tasks easier. Open to contributions!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/">View Demos</a>
